@@ -141,3 +141,27 @@ main{
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
     border-radius: 5px;
 }
+.resume-container{
+    display: flex;
+    gap: 30px;
+}
+.experience-description{
+    font-size: 16px;
+
+}
+.experience-sub-title{
+    font-size: 20px;
+    font-weight: 600;
+}
+.experience-title{
+    font-size: 25px;
+    font-weight: bold;
+}
+.column-title{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.download-cv{
+    margin-top: 50px;
+}
