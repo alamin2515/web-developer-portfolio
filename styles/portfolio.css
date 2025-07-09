@@ -165,3 +165,25 @@ main{
 .download-cv{
     margin-top: 50px;
 }
+
+/* footer styles */
+footer{
+    padding: 130px 230px;
+    display: flex;
+    gap: 30px;
+    margin-top: 130px;
+    justify-content: space-between;
+}
+footer input[type="text"], footer input[type="email"], footer textarea{
+    height: 64px;
+    width: 100%;
+    display: block;
+    padding: 10px 20px;
+    background-color: white;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 24px;
+}
+/* .footer column{
+    width: 50%;
+} */
